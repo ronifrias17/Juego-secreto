@@ -1,4 +1,4 @@
-//Función que almacena el retorno de la función que da el número secreto aleatorio
+//Variable que almacena el retorno de la función que da el número secreto aleatorio
 let numeroSecreto = 0;
 let intentos = 0;
 let listaNumerosSorteados = [];
